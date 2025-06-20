@@ -1,11 +1,5 @@
 
 
-<!DOCTYPE html>
-
-<html lang='en'>
-
-<head>
-
     <title>age checker</title>
 
     <meta charset='utf-8'>
@@ -168,9 +162,7 @@
 
     </style>
 
-</head>
 
-<body>
 
     <header>
 
@@ -338,6 +330,3 @@
 
     </footer>
 
-</body>
-
-</html
